@@ -97,6 +97,7 @@ class ViralMetadataGenerator:
             # Grab first 4-7 words for quote
             words = clean_transcript.split()
             short_quote = " ".join(words[:min(6, len(words))]).upper()
+            short_quote = re.sub(r"[.,!?;:]+$", "", short_quote)
             if len(short_quote) > 10:
                 quote_title = f'"{short_quote}..." 💀 (HE LOST IT)'
 
