@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AutoClipper - AI Stream Clipper | 9:16 Vertical Shorts & TikToks</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div class="badge-tag">⚡ Local AI Auto-Clipper Studio</div>
+      <h1 class="logo-title">AutoClipper</h1>
+      <p class="subtitle">
+        Automatically detect top 3 viral moments from YouTube streams & videos using audio spikes and chat/replay peaks, crop to 9:16 split-screen, and burn bold animated captions.
+      </p>
+      <div class="tech-badges">
+        <span class="tech-pill">Engine: <strong>yt-dlp</strong></span>
+        <span class="tech-pill">Video: <strong>FFmpeg (9:16 Split)</strong></span>
+        <span class="tech-pill">Speech: <strong>faster-whisper</strong></span>
+        <span class="tech-pill">Vision: <strong>OpenCV FaceCam</strong></span>
+        <span class="tech-pill">Platform: <strong>Shorts / TikTok / Reels</strong></span>
+      </div>
+    </header>
+
+    <!-- Main Input & Controls Glass Panel -->
+    <section class="glass-panel">
+      <div class="input-group-hero">
+        <div class="input-hero-wrapper">
+          <span class="input-icon">🔗</span>
+          <input 
+            type="text" 
+            id="input-url" 
+            placeholder="Paste YouTube stream/video URL or enter local MP4 path (e.g. samples/sample_stream.mp4)..."
+            value="samples/sample_stream.mp4"
+          >
+        </div>
+        <button id="btn-clip" class="btn-primary">
+          <span>⚡ Auto-Clip Viral Moments</span>
+        </button>
+        <button id="btn-demo" class="btn-secondary">
+          <span>🎮 Run Sample Demo</span>
+        </button>
+      </div>
+
+      <!-- Advanced Clipper Controls -->
+      <div class="settings-grid">
+        <div class="setting-col">
+          <label for="select-duration">⏱️ Clip Duration</label>
+          <select id="select-duration" class="select-custom">
+            <option value="25">25 Seconds (High Energy)</option>
+            <option value="30">30 Seconds (TikTok / Reels)</option>
+            <option value="45" selected>45 Seconds (Recommended)</option>
+            <option value="60">60 Seconds (Full Context)</option>
+          </select>
+        </div>
+
+        <div class="setting-col">
+          <label for="select-facecam">📸 Streamer FaceCam</label>
+          <select id="select-facecam" class="select-custom">
+            <option value="top-right" selected>Top-Right Corner (Twitch Standard)</option>
+            <option value="top-left">Top-Left Corner</option>
+            <option value="bottom-right">Bottom-Right Corner</option>
+            <option value="bottom-left">Bottom-Left Corner</option>
+            <option value="top-center">Top Center Zoom</option>
+            <option value="auto">Auto-Detect (Haar Cascade)</option>
+          </select>
+        </div>
+
+        <div class="setting-col">
+          <label for="select-model">🧠 Whisper Model</label>
+          <select id="select-model" class="select-custom">
+            <option value="tiny" selected>Tiny (Ultra-Fast CPU, &lt;1s)</option>
+            <option value="base">Base (High Accuracy)</option>
+            <option value="small">Small (Studio Accuracy)</option>
+          </select>
+        </div>
+
+        <div class="setting-col">
+          <label for="select-color">🎨 Caption Accent Color</label>
+          <select id="select-color" class="select-custom">
+            <option value="&H0000FFFF" selected>Electric Yellow (Viral Standard)</option>
+            <option value="&H00FFFF00">Cyber Cyan</option>
+            <option value="&H0000FF7F">Neon Lime Green</option>
+            <option value="&H00FF00FF">Hot Magenta</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- Live Progress Bar Section -->
+    <section id="progress-panel" class="glass-panel progress-panel">
+      <div class="progress-header">
+        <div class="progress-title">
+          <span>⚡ Processing Stream</span>
+        </div>
+        <div id="progress-percent" style="font-weight: 800; color: var(--neon-cyan);">0%</div>
+      </div>
+      <div class="progress-bar-track">
+        <div id="progress-fill" class="progress-bar-fill"></div>
+      </div>
+      <div class="progress-status-text">
+        <span id="progress-stage">Initializing analysis pipeline...</span>
+        <span>Shorts & TikTok Ready (1080x1920)</span>
+      </div>
+    </section>
+
+    <!-- Interactive Waveform & Replay Peak Timeline -->
+    <section id="timeline-section" class="glass-panel timeline-card" style="display: none;">
+      <div class="timeline-header">
+        <h2 style="font-size: 1.3rem; font-weight: 800; color: #fff;">
+          📊 Viral Engagement & Audio Spike Timeline
+        </h2>
+        <div class="legend">
+          <div class="legend-item">
+            <div class="legend-dot" style="background: #ffe600;"></div>
+            <span>Composite Viral Score</span>
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background: #00f0ff;"></div>
+            <span>Audio Spikes (RMS/dB)</span>
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background: #9d4edd;"></div>
+            <span>Replay Heatmap</span>
+          </div>
+        </div>
+      </div>
+      <div id="chart-container" class="chart-svg-container"></div>
+      <p style="font-size: 0.8rem; color: var(--text-dim); margin-top: 10px; text-align: center;">
+        Dashed boxes indicate selected 9:16 viral clip intervals centered around peak hype moments.
+      </p>
+    </section>
+
+    <!-- Top 3 Viral Clips Showcase Grid -->
+    <section id="clips-section">
+      <h2 class="clips-section-title">
+        <span>🎬 Top 3 Viral Moments (9:16 Vertical Split-Screen)</span>
+      </h2>
+      <div id="clips-grid" class="clips-grid">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+    <!-- CLI Usage Reference Card -->
+    <section class="glass-panel" style="margin-top: 40px;">
+      <h3 style="font-size: 1.2rem; font-weight: 800; margin-bottom: 8px; color: var(--neon-cyan);">
+        💻 Run Directly from Python CLI
+      </h3>
+      <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 12px;">
+        AutoClipper can be executed directly in your terminal for automation, scripts, or local OBS recording folders:
+      </p>
+      <div class="cli-code-card">
+        <pre><code># 1. Clip any YouTube stream or video
+python autoclipper.py "https://www.youtube.com/watch?v=VIDEO_ID" --clip-duration 45 --facecam top-right
+
+# 2. Run with browser cookies for protected/member streams
+python autoclipper.py "https://www.youtube.com/watch?v=VIDEO_ID" --cookies-from-browser chrome
+
+# 3. Clip local recording (e.g. OBS Studio output)
+python autoclipper.py "/path/to/stream_recording.mp4" --output-dir my_clips
+
+# 4. Instant offline demo
+python autoclipper.py --demo</code></pre>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer style="text-align: center; color: var(--text-dim); font-size: 0.85rem; margin-top: 40px;">
+      <p>AutoClipper &bull; Powered by yt-dlp, FFmpeg, faster-whisper & OpenCV &bull; Built for YouTube Shorts, TikTok & Instagram Reels</p>
+    </footer>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

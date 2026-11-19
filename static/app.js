@@ -34,12 +34,27 @@ async function checkDemoAvailability() {
     if (res.ok) {
       const data = await res.json();
       if (data.clips && data.clips.length > 0) {
-        // Pre-populate UI with demo clips so page is immediately interactive!
         renderResults(data);
+        return;
       }
     }
   } catch (err) {
-    console.log("Static mode or demo fetching:", err);
+    console.log("API not available, trying static file...");
+  }
+
+  // Fallback for static preview mode
+  try {
+    const resStatic = await fetch("/static/clips/all_clips_summary.json");
+    if (resStatic.ok) {
+      const data = await resStatic.json();
+      (data.clips || []).forEach(c => {
+        c.video_url = `/static/clips/${c.relative_video_file}`;
+        c.metadata_url = `/static/clips/${c.relative_metadata_file}`;
+      });
+      renderResults(data);
+    }
+  } catch (err2) {
+    console.log("Static clips summary not loaded:", err2);
   }
 }
 
