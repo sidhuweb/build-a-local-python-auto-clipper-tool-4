@@ -1,0 +1,1721 @@
+{
+  "source_video": {
+    "title": "sample_stream",
+    "channel": "Local Recording",
+    "duration": 115.0,
+    "heatmap_available": true,
+    "chat_available": true
+  },
+  "facecam_crop": {
+    "x": 1350,
+    "y": 0,
+    "w": 568,
+    "h": 504
+  },
+  "clips": [
+    {
+      "clip_id": "clip_1",
+      "rank": 1,
+      "title": "\"OH MY GOD. HE IS ONE...\" \ud83d\udc80 (HE LOST IT)",
+      "alternative_titles": [
+        "HE REALLY THOUGHT HE WAS GOING TO SURVIVE THIS... \ud83d\udc80",
+        "THE MOMENT EVERYTHING WENT COMPLETELY WRONG \ud83e\udd2f #Shorts",
+        "NO ONE COULD BELIEVE WHAT HAPPENED NEXT... \ud83d\udd25"
+      ],
+      "start_time": 14.5,
+      "end_time": 39.5,
+      "duration": 25.0,
+      "viral_score": 100.0,
+      "primary_reason": "Audio Spike (Laughter/Scream/Hype) + YouTube Most Replayed Peak + Chat Velocity & Hype Surge",
+      "description": "\"OH MY GOD. HE IS ONE...\" \ud83d\udc80 (HE LOST IT)\n\nYou won't believe how this ended! Watch till the very last second! \ud83d\ude31\n\n\ud83c\udfaf Clip Timestamp: 00:14 - 00:39\n\ud83c\udf99\ufe0f Streamer: Local Recording\n\ud83d\udcac Highlight Quote: \"Oh my god. He is one HP. Look at this shot. No way he hit that. He is definitely cheating bro....\"\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 Drop a LIKE if you would have reacted the same way!\n\ud83d\udd14 SUBSCRIBE for daily stream highlights, funniest gaming clips, and insane clutches!\n\ud83d\udcac Drop a comment: What would you rate this play from 1 to 10?\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501",
+      "hashtags": [
+        "#shorts",
+        "#fyp",
+        "#viral",
+        "#trending",
+        "#gaming",
+        "#streamer",
+        "#twitch",
+        "#twitchclips",
+        "#insane",
+        "#clutch"
+      ],
+      "hashtags_string": "#shorts #fyp #viral #trending #gaming #streamer #twitch #twitchclips #insane #clutch",
+      "transcript": "Oh my god. He is one HP. Look at this shot. No way he hit that. He is definitely cheating bro.",
+      "file_path": "/home/agent/workspace/static/clips/clip_1_metadata.txt",
+      "video_file": "/home/agent/workspace/static/clips/clip_1_9x16.mp4",
+      "relative_video_file": "clip_1_9x16.mp4",
+      "relative_metadata_file": "clip_1_metadata.txt",
+      "words_count": 21
+    },
+    {
+      "clip_id": "clip_2",
+      "rank": 2,
+      "title": "\"TIME TO LOCK IN CHAT. LET'S...\" \ud83d\udc80 (HE LOST IT)",
+      "alternative_titles": [
+        "WHEN THE ENEMY DOES NOT REALIZE WHO THEY ARE PLAYING \ud83d\udc80",
+        "WATCH TILL THE VERY END... YOU WILL NOT REGRET IT \ud83d\ude31",
+        "THE MOST UNLUCKY TIMING IN GAMING HISTORY \ud83d\ude2d"
+      ],
+      "start_time": 79.5,
+      "end_time": 104.5,
+      "duration": 25.0,
+      "viral_score": 95.9,
+      "primary_reason": "Audio Spike (Laughter/Scream/Hype) + YouTube Most Replayed Peak + Chat Velocity & Hype Surge",
+      "description": "\"TIME TO LOCK IN CHAT. LET'S...\" \ud83d\udc80 (HE LOST IT)\n\nYou won't believe how this ended! Watch till the very last second! \ud83d\ude31\n\n\ud83c\udfaf Clip Timestamp: 01:19 - 01:44\n\ud83c\udf99\ufe0f Streamer: Local Recording\n\ud83d\udcac Highlight Quote: \"Time to lock in chat. Let's go. 1 vs 4 clutch for the win. Clip that chat. Clip that right now....\"\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 Drop a LIKE if you would have reacted the same way!\n\ud83d\udd14 SUBSCRIBE for daily stream highlights, funniest gaming clips, and insane clutches!\n\ud83d\udcac Drop a comment: What would you rate this play from 1 to 10?\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501",
+      "hashtags": [
+        "#shorts",
+        "#fyp",
+        "#viral",
+        "#trending",
+        "#gaming",
+        "#streamer",
+        "#twitch",
+        "#twitchclips",
+        "#insane",
+        "#clutch"
+      ],
+      "hashtags_string": "#shorts #fyp #viral #trending #gaming #streamer #twitch #twitchclips #insane #clutch",
+      "transcript": "Time to lock in chat. Let's go. 1 vs 4 clutch for the win. Clip that chat. Clip that right now.",
+      "file_path": "/home/agent/workspace/static/clips/clip_2_metadata.txt",
+      "video_file": "/home/agent/workspace/static/clips/clip_2_9x16.mp4",
+      "relative_video_file": "clip_2_9x16.mp4",
+      "relative_metadata_file": "clip_2_metadata.txt",
+      "words_count": 21
+    },
+    {
+      "clip_id": "clip_3",
+      "rank": 3,
+      "title": "\"WAIT WHAT JUST HAPPENED? DID HE...\" \ud83d\udc80 (HE LOST IT)",
+      "alternative_titles": [
+        "HE DID NOT SEE THIS COMING AT ALL... \ud83d\udc80",
+        "IS THIS THE GREATEST GAMING MOMENT OF 2026?! \ud83e\udd2f",
+        "THEY NEVER EXPECTED HIM TO ACTUALLY DO THIS \ud83d\udd25"
+      ],
+      "start_time": 46.5,
+      "end_time": 71.5,
+      "duration": 25.0,
+      "viral_score": 73.7,
+      "primary_reason": "Audio Spike (Laughter/Scream/Hype) + YouTube Most Replayed Peak",
+      "description": "\"WAIT WHAT JUST HAPPENED? DID HE...\" \ud83d\udc80 (HE LOST IT)\n\nYou won't believe how this ended! Watch till the very last second! \ud83d\ude31\n\n\ud83c\udfaf Clip Timestamp: 00:46 - 01:11\n\ud83c\udf99\ufe0f Streamer: Local Recording\n\ud83d\udcac Highlight Quote: \"Wait what just happened? Did he actually jump off the roof? Are you serious right now?...\"\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udc49 Drop a LIKE if you would have reacted the same way!\n\ud83d\udd14 SUBSCRIBE for daily stream highlights, funniest gaming clips, and insane clutches!\n\ud83d\udcac Drop a comment: What would you rate this play from 1 to 10?\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501",
+      "hashtags": [
+        "#shorts",
+        "#fyp",
+        "#viral",
+        "#trending",
+        "#gaming",
+        "#streamer",
+        "#twitch",
+        "#twitchclips",
+        "#insane",
+        "#clutch"
+      ],
+      "hashtags_string": "#shorts #fyp #viral #trending #gaming #streamer #twitch #twitchclips #insane #clutch",
+      "transcript": "Wait what just happened? Did he actually jump off the roof? Are you serious right now?",
+      "file_path": "/home/agent/workspace/static/clips/clip_3_metadata.txt",
+      "video_file": "/home/agent/workspace/static/clips/clip_3_9x16.mp4",
+      "relative_video_file": "clip_3_9x16.mp4",
+      "relative_metadata_file": "clip_3_metadata.txt",
+      "words_count": 16
+    }
+  ],
+  "timeline": [
+    {
+      "time": 0.5,
+      "viral_score": 33.8,
+      "audio": 61.9,
+      "replay": 0.0,
+      "chat": 0.0
+    },
+    {
+      "time": 1.0,
+      "viral_score": 33.6,
+      "audio": 51.8,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 1.5,
+      "viral_score": 33.2,
+      "audio": 60.3,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 2.0,
+      "viral_score": 32.8,
+      "audio": 58.6,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 2.5,
+      "viral_score": 32.9,
+      "audio": 28.3,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 3.0,
+      "viral_score": 33.7,
+      "audio": 52.8,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 3.5,
+      "viral_score": 34.7,
+      "audio": 65.2,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 4.0,
+      "viral_score": 34.6,
+      "audio": 67.4,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 4.5,
+      "viral_score": 32.3,
+      "audio": 63.5,
+      "replay": 8.2,
+      "chat": 0.0
+    },
+    {
+      "time": 5.0,
+      "viral_score": 27.7,
+      "audio": 53.4,
+      "replay": 8.2,
+      "chat": 9.7
+    },
+    {
+      "time": 5.5,
+      "viral_score": 21.6,
+      "audio": 29.6,
+      "replay": 8.2,
+      "chat": 9.5
+    },
+    {
+      "time": 6.0,
+      "viral_score": 15.6,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.4
+    },
+    {
+      "time": 6.5,
+      "viral_score": 10.9,
+      "audio": 0.1,
+      "replay": 8.2,
+      "chat": 9.2
+    },
+    {
+      "time": 7.0,
+      "viral_score": 7.9,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.0
+    },
+    {
+      "time": 7.5,
+      "viral_score": 6.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.9
+    },
+    {
+      "time": 8.0,
+      "viral_score": 5.8,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.7
+    },
+    {
+      "time": 8.5,
+      "viral_score": 5.6,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.6
+    },
+    {
+      "time": 9.0,
+      "viral_score": 5.6,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.4
+    },
+    {
+      "time": 9.5,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.2
+    },
+    {
+      "time": 10.0,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.1
+    },
+    {
+      "time": 10.5,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.9
+    },
+    {
+      "time": 11.0,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.7
+    },
+    {
+      "time": 11.5,
+      "viral_score": 5.5,
+      "audio": 0.6,
+      "replay": 8.2,
+      "chat": 7.6
+    },
+    {
+      "time": 12.0,
+      "viral_score": 5.5,
+      "audio": 0.5,
+      "replay": 8.2,
+      "chat": 7.4
+    },
+    {
+      "time": 12.5,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.3
+    },
+    {
+      "time": 13.0,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.1
+    },
+    {
+      "time": 13.5,
+      "viral_score": 5.3,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.9
+    },
+    {
+      "time": 14.0,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.8
+    },
+    {
+      "time": 14.5,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.6
+    },
+    {
+      "time": 15.0,
+      "viral_score": 5.8,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.5
+    },
+    {
+      "time": 15.5,
+      "viral_score": 6.2,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 10.3
+    },
+    {
+      "time": 16.0,
+      "viral_score": 6.7,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 14.2
+    },
+    {
+      "time": 16.5,
+      "viral_score": 7.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 18.1
+    },
+    {
+      "time": 17.0,
+      "viral_score": 8.1,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 22.0
+    },
+    {
+      "time": 17.5,
+      "viral_score": 8.8,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 25.9
+    },
+    {
+      "time": 18.0,
+      "viral_score": 9.7,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 29.8
+    },
+    {
+      "time": 18.5,
+      "viral_score": 10.8,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 33.7
+    },
+    {
+      "time": 19.0,
+      "viral_score": 12.2,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 37.6
+    },
+    {
+      "time": 19.5,
+      "viral_score": 14.2,
+      "audio": 0.6,
+      "replay": 11.0,
+      "chat": 41.5
+    },
+    {
+      "time": 20.0,
+      "viral_score": 17.3,
+      "audio": 0.1,
+      "replay": 13.9,
+      "chat": 45.3
+    },
+    {
+      "time": 20.5,
+      "viral_score": 22.3,
+      "audio": 0.0,
+      "replay": 16.8,
+      "chat": 49.2
+    },
+    {
+      "time": 21.0,
+      "viral_score": 29.9,
+      "audio": 0.0,
+      "replay": 19.6,
+      "chat": 53.1
+    },
+    {
+      "time": 21.5,
+      "viral_score": 39.9,
+      "audio": 0.0,
+      "replay": 24.6,
+      "chat": 57.0
+    },
+    {
+      "time": 22.0,
+      "viral_score": 50.4,
+      "audio": 78.7,
+      "replay": 29.6,
+      "chat": 60.9
+    },
+    {
+      "time": 22.5,
+      "viral_score": 59.4,
+      "audio": 90.4,
+      "replay": 34.5,
+      "chat": 64.8
+    },
+    {
+      "time": 23.0,
+      "viral_score": 66.4,
+      "audio": 74.4,
+      "replay": 39.5,
+      "chat": 68.7
+    },
+    {
+      "time": 23.5,
+      "viral_score": 72.5,
+      "audio": 5.4,
+      "replay": 45.9,
+      "chat": 72.6
+    },
+    {
+      "time": 24.0,
+      "viral_score": 78.5,
+      "audio": 92.4,
+      "replay": 52.3,
+      "chat": 76.4
+    },
+    {
+      "time": 24.5,
+      "viral_score": 84.2,
+      "audio": 100.0,
+      "replay": 58.7,
+      "chat": 80.3
+    },
+    {
+      "time": 25.0,
+      "viral_score": 88.6,
+      "audio": 81.5,
+      "replay": 65.1,
+      "chat": 84.2
+    },
+    {
+      "time": 25.5,
+      "viral_score": 91.4,
+      "audio": 66.0,
+      "replay": 70.8,
+      "chat": 81.7
+    },
+    {
+      "time": 26.0,
+      "viral_score": 93.0,
+      "audio": 76.3,
+      "replay": 76.5,
+      "chat": 79.1
+    },
+    {
+      "time": 26.5,
+      "viral_score": 93.8,
+      "audio": 88.6,
+      "replay": 82.2,
+      "chat": 76.6
+    },
+    {
+      "time": 27.0,
+      "viral_score": 94.5,
+      "audio": 74.2,
+      "replay": 87.9,
+      "chat": 74.0
+    },
+    {
+      "time": 27.5,
+      "viral_score": 95.8,
+      "audio": 24.3,
+      "replay": 90.2,
+      "chat": 71.5
+    },
+    {
+      "time": 28.0,
+      "viral_score": 97.6,
+      "audio": 89.4,
+      "replay": 92.5,
+      "chat": 68.9
+    },
+    {
+      "time": 28.5,
+      "viral_score": 99.2,
+      "audio": 99.0,
+      "replay": 94.8,
+      "chat": 66.4
+    },
+    {
+      "time": 29.0,
+      "viral_score": 99.9,
+      "audio": 78.5,
+      "replay": 97.1,
+      "chat": 63.8
+    },
+    {
+      "time": 29.5,
+      "viral_score": 100.0,
+      "audio": 51.4,
+      "replay": 94.8,
+      "chat": 61.3
+    },
+    {
+      "time": 30.0,
+      "viral_score": 99.5,
+      "audio": 85.2,
+      "replay": 92.5,
+      "chat": 58.7
+    },
+    {
+      "time": 30.5,
+      "viral_score": 97.5,
+      "audio": 96.0,
+      "replay": 90.2,
+      "chat": 56.2
+    },
+    {
+      "time": 31.0,
+      "viral_score": 92.6,
+      "audio": 93.8,
+      "replay": 87.9,
+      "chat": 53.6
+    },
+    {
+      "time": 31.5,
+      "viral_score": 83.9,
+      "audio": 85.3,
+      "replay": 82.2,
+      "chat": 51.1
+    },
+    {
+      "time": 32.0,
+      "viral_score": 72.2,
+      "audio": 60.4,
+      "replay": 76.5,
+      "chat": 48.5
+    },
+    {
+      "time": 32.5,
+      "viral_score": 59.6,
+      "audio": 0.0,
+      "replay": 70.8,
+      "chat": 46.0
+    },
+    {
+      "time": 33.0,
+      "viral_score": 48.5,
+      "audio": 0.0,
+      "replay": 65.1,
+      "chat": 43.4
+    },
+    {
+      "time": 33.5,
+      "viral_score": 40.1,
+      "audio": 0.0,
+      "replay": 58.7,
+      "chat": 40.9
+    },
+    {
+      "time": 34.0,
+      "viral_score": 34.1,
+      "audio": 0.0,
+      "replay": 52.3,
+      "chat": 38.3
+    },
+    {
+      "time": 34.5,
+      "viral_score": 29.8,
+      "audio": 0.0,
+      "replay": 45.9,
+      "chat": 35.8
+    },
+    {
+      "time": 35.0,
+      "viral_score": 26.2,
+      "audio": 0.0,
+      "replay": 39.5,
+      "chat": 33.2
+    },
+    {
+      "time": 35.5,
+      "viral_score": 23.2,
+      "audio": 0.0,
+      "replay": 34.5,
+      "chat": 32.1
+    },
+    {
+      "time": 36.0,
+      "viral_score": 20.4,
+      "audio": 0.0,
+      "replay": 29.6,
+      "chat": 30.9
+    },
+    {
+      "time": 36.5,
+      "viral_score": 17.9,
+      "audio": 0.0,
+      "replay": 24.6,
+      "chat": 29.7
+    },
+    {
+      "time": 37.0,
+      "viral_score": 15.7,
+      "audio": 0.0,
+      "replay": 19.6,
+      "chat": 28.5
+    },
+    {
+      "time": 37.5,
+      "viral_score": 13.7,
+      "audio": 0.0,
+      "replay": 16.8,
+      "chat": 27.3
+    },
+    {
+      "time": 38.0,
+      "viral_score": 12.0,
+      "audio": 0.0,
+      "replay": 13.9,
+      "chat": 26.2
+    },
+    {
+      "time": 38.5,
+      "viral_score": 10.6,
+      "audio": 0.2,
+      "replay": 11.0,
+      "chat": 25.0
+    },
+    {
+      "time": 39.0,
+      "viral_score": 9.6,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 23.8
+    },
+    {
+      "time": 39.5,
+      "viral_score": 9.1,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 22.6
+    },
+    {
+      "time": 40.0,
+      "viral_score": 9.3,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 21.5
+    },
+    {
+      "time": 40.5,
+      "viral_score": 10.9,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 20.3
+    },
+    {
+      "time": 41.0,
+      "viral_score": 14.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 19.1
+    },
+    {
+      "time": 41.5,
+      "viral_score": 19.7,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 17.9
+    },
+    {
+      "time": 42.0,
+      "viral_score": 25.8,
+      "audio": 52.3,
+      "replay": 8.2,
+      "chat": 16.7
+    },
+    {
+      "time": 42.5,
+      "viral_score": 31.2,
+      "audio": 61.8,
+      "replay": 8.2,
+      "chat": 15.6
+    },
+    {
+      "time": 43.0,
+      "viral_score": 34.9,
+      "audio": 57.7,
+      "replay": 8.2,
+      "chat": 14.4
+    },
+    {
+      "time": 43.5,
+      "viral_score": 36.8,
+      "audio": 52.8,
+      "replay": 8.2,
+      "chat": 13.2
+    },
+    {
+      "time": 44.0,
+      "viral_score": 37.2,
+      "audio": 59.6,
+      "replay": 8.2,
+      "chat": 12.0
+    },
+    {
+      "time": 44.5,
+      "viral_score": 36.4,
+      "audio": 59.9,
+      "replay": 8.2,
+      "chat": 10.9
+    },
+    {
+      "time": 45.0,
+      "viral_score": 33.8,
+      "audio": 61.1,
+      "replay": 8.2,
+      "chat": 9.7
+    },
+    {
+      "time": 45.5,
+      "viral_score": 29.3,
+      "audio": 58.3,
+      "replay": 8.2,
+      "chat": 9.5
+    },
+    {
+      "time": 46.0,
+      "viral_score": 23.3,
+      "audio": 40.6,
+      "replay": 8.2,
+      "chat": 9.4
+    },
+    {
+      "time": 46.5,
+      "viral_score": 16.9,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.2
+    },
+    {
+      "time": 47.0,
+      "viral_score": 11.7,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.0
+    },
+    {
+      "time": 47.5,
+      "viral_score": 8.3,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.9
+    },
+    {
+      "time": 48.0,
+      "viral_score": 6.6,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.7
+    },
+    {
+      "time": 48.5,
+      "viral_score": 5.9,
+      "audio": 0.2,
+      "replay": 8.2,
+      "chat": 8.6
+    },
+    {
+      "time": 49.0,
+      "viral_score": 5.6,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.4
+    },
+    {
+      "time": 49.5,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.2
+    },
+    {
+      "time": 50.0,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.1
+    },
+    {
+      "time": 50.5,
+      "viral_score": 5.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.9
+    },
+    {
+      "time": 51.0,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.7
+    },
+    {
+      "time": 51.5,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.6
+    },
+    {
+      "time": 52.0,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.4
+    },
+    {
+      "time": 52.5,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.3
+    },
+    {
+      "time": 53.0,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.1
+    },
+    {
+      "time": 53.5,
+      "viral_score": 5.8,
+      "audio": 0.1,
+      "replay": 8.2,
+      "chat": 6.9
+    },
+    {
+      "time": 54.0,
+      "viral_score": 7.1,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.8
+    },
+    {
+      "time": 54.5,
+      "viral_score": 10.1,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.6
+    },
+    {
+      "time": 55.0,
+      "viral_score": 15.7,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.5
+    },
+    {
+      "time": 55.5,
+      "viral_score": 23.8,
+      "audio": 0.0,
+      "replay": 9.7,
+      "chat": 8.4
+    },
+    {
+      "time": 56.0,
+      "viral_score": 32.8,
+      "audio": 75.6,
+      "replay": 11.3,
+      "chat": 10.4
+    },
+    {
+      "time": 56.5,
+      "viral_score": 40.6,
+      "audio": 88.2,
+      "replay": 12.9,
+      "chat": 12.4
+    },
+    {
+      "time": 57.0,
+      "viral_score": 46.4,
+      "audio": 75.1,
+      "replay": 14.4,
+      "chat": 14.4
+    },
+    {
+      "time": 57.5,
+      "viral_score": 50.8,
+      "audio": 39.6,
+      "replay": 18.9,
+      "chat": 16.4
+    },
+    {
+      "time": 58.0,
+      "viral_score": 54.9,
+      "audio": 76.8,
+      "replay": 23.3,
+      "chat": 18.3
+    },
+    {
+      "time": 58.5,
+      "viral_score": 58.7,
+      "audio": 88.3,
+      "replay": 27.8,
+      "chat": 20.3
+    },
+    {
+      "time": 59.0,
+      "viral_score": 62.1,
+      "audio": 85.0,
+      "replay": 32.2,
+      "chat": 22.3
+    },
+    {
+      "time": 59.5,
+      "viral_score": 65.0,
+      "audio": 77.0,
+      "replay": 38.4,
+      "chat": 24.3
+    },
+    {
+      "time": 60.0,
+      "viral_score": 67.9,
+      "audio": 57.8,
+      "replay": 44.6,
+      "chat": 26.3
+    },
+    {
+      "time": 60.5,
+      "viral_score": 71.2,
+      "audio": 66.1,
+      "replay": 50.8,
+      "chat": 28.2
+    },
+    {
+      "time": 61.0,
+      "viral_score": 73.6,
+      "audio": 92.7,
+      "replay": 57.0,
+      "chat": 30.2
+    },
+    {
+      "time": 61.5,
+      "viral_score": 73.7,
+      "audio": 94.6,
+      "replay": 62.8,
+      "chat": 32.2
+    },
+    {
+      "time": 62.0,
+      "viral_score": 70.6,
+      "audio": 72.1,
+      "replay": 68.6,
+      "chat": 34.2
+    },
+    {
+      "time": 62.5,
+      "viral_score": 65.0,
+      "audio": 42.9,
+      "replay": 74.4,
+      "chat": 36.2
+    },
+    {
+      "time": 63.0,
+      "viral_score": 59.0,
+      "audio": 0.1,
+      "replay": 80.3,
+      "chat": 38.1
+    },
+    {
+      "time": 63.5,
+      "viral_score": 54.3,
+      "audio": 0.0,
+      "replay": 82.7,
+      "chat": 40.1
+    },
+    {
+      "time": 64.0,
+      "viral_score": 51.8,
+      "audio": 0.0,
+      "replay": 85.1,
+      "chat": 42.1
+    },
+    {
+      "time": 64.5,
+      "viral_score": 50.7,
+      "audio": 0.0,
+      "replay": 87.6,
+      "chat": 44.1
+    },
+    {
+      "time": 65.0,
+      "viral_score": 50.3,
+      "audio": 0.0,
+      "replay": 90.0,
+      "chat": 46.1
+    },
+    {
+      "time": 65.5,
+      "viral_score": 49.7,
+      "audio": 0.0,
+      "replay": 87.6,
+      "chat": 44.1
+    },
+    {
+      "time": 66.0,
+      "viral_score": 48.6,
+      "audio": 0.0,
+      "replay": 85.1,
+      "chat": 42.1
+    },
+    {
+      "time": 66.5,
+      "viral_score": 47.0,
+      "audio": 0.0,
+      "replay": 82.7,
+      "chat": 40.1
+    },
+    {
+      "time": 67.0,
+      "viral_score": 44.9,
+      "audio": 0.0,
+      "replay": 80.3,
+      "chat": 38.1
+    },
+    {
+      "time": 67.5,
+      "viral_score": 42.4,
+      "audio": 0.0,
+      "replay": 74.4,
+      "chat": 36.2
+    },
+    {
+      "time": 68.0,
+      "viral_score": 39.5,
+      "audio": 0.0,
+      "replay": 68.6,
+      "chat": 34.2
+    },
+    {
+      "time": 68.5,
+      "viral_score": 36.5,
+      "audio": 0.0,
+      "replay": 62.8,
+      "chat": 32.2
+    },
+    {
+      "time": 69.0,
+      "viral_score": 33.3,
+      "audio": 0.2,
+      "replay": 57.0,
+      "chat": 30.2
+    },
+    {
+      "time": 69.5,
+      "viral_score": 30.0,
+      "audio": 0.5,
+      "replay": 50.8,
+      "chat": 28.2
+    },
+    {
+      "time": 70.0,
+      "viral_score": 26.8,
+      "audio": 0.0,
+      "replay": 44.6,
+      "chat": 26.3
+    },
+    {
+      "time": 70.5,
+      "viral_score": 23.6,
+      "audio": 0.0,
+      "replay": 38.4,
+      "chat": 24.3
+    },
+    {
+      "time": 71.0,
+      "viral_score": 20.6,
+      "audio": 0.0,
+      "replay": 32.2,
+      "chat": 22.3
+    },
+    {
+      "time": 71.5,
+      "viral_score": 17.8,
+      "audio": 0.0,
+      "replay": 27.8,
+      "chat": 20.3
+    },
+    {
+      "time": 72.0,
+      "viral_score": 15.2,
+      "audio": 0.5,
+      "replay": 23.3,
+      "chat": 18.3
+    },
+    {
+      "time": 72.5,
+      "viral_score": 12.9,
+      "audio": 0.4,
+      "replay": 18.9,
+      "chat": 16.4
+    },
+    {
+      "time": 73.0,
+      "viral_score": 11.0,
+      "audio": 0.0,
+      "replay": 14.4,
+      "chat": 14.4
+    },
+    {
+      "time": 73.5,
+      "viral_score": 9.6,
+      "audio": 0.0,
+      "replay": 12.9,
+      "chat": 12.4
+    },
+    {
+      "time": 74.0,
+      "viral_score": 9.0,
+      "audio": 0.0,
+      "replay": 11.3,
+      "chat": 10.4
+    },
+    {
+      "time": 74.5,
+      "viral_score": 10.0,
+      "audio": 0.0,
+      "replay": 9.7,
+      "chat": 8.4
+    },
+    {
+      "time": 75.0,
+      "viral_score": 13.1,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.5
+    },
+    {
+      "time": 75.5,
+      "viral_score": 18.3,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.6
+    },
+    {
+      "time": 76.0,
+      "viral_score": 24.7,
+      "audio": 51.7,
+      "replay": 8.2,
+      "chat": 6.8
+    },
+    {
+      "time": 76.5,
+      "viral_score": 30.5,
+      "audio": 61.9,
+      "replay": 8.2,
+      "chat": 6.9
+    },
+    {
+      "time": 77.0,
+      "viral_score": 34.4,
+      "audio": 62.5,
+      "replay": 8.2,
+      "chat": 7.1
+    },
+    {
+      "time": 77.5,
+      "viral_score": 35.9,
+      "audio": 60.3,
+      "replay": 8.2,
+      "chat": 7.3
+    },
+    {
+      "time": 78.0,
+      "viral_score": 35.2,
+      "audio": 61.2,
+      "replay": 8.2,
+      "chat": 7.4
+    },
+    {
+      "time": 78.5,
+      "viral_score": 33.2,
+      "audio": 58.8,
+      "replay": 8.2,
+      "chat": 7.6
+    },
+    {
+      "time": 79.0,
+      "viral_score": 31.1,
+      "audio": 46.8,
+      "replay": 8.2,
+      "chat": 7.7
+    },
+    {
+      "time": 79.5,
+      "viral_score": 29.6,
+      "audio": 5.7,
+      "replay": 8.2,
+      "chat": 7.9
+    },
+    {
+      "time": 80.0,
+      "viral_score": 28.9,
+      "audio": 55.5,
+      "replay": 8.2,
+      "chat": 8.1
+    },
+    {
+      "time": 80.5,
+      "viral_score": 27.6,
+      "audio": 61.5,
+      "replay": 8.2,
+      "chat": 8.2
+    },
+    {
+      "time": 81.0,
+      "viral_score": 24.5,
+      "audio": 50.9,
+      "replay": 8.2,
+      "chat": 8.4
+    },
+    {
+      "time": 81.5,
+      "viral_score": 19.8,
+      "audio": 26.0,
+      "replay": 8.2,
+      "chat": 8.6
+    },
+    {
+      "time": 82.0,
+      "viral_score": 14.6,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.7
+    },
+    {
+      "time": 82.5,
+      "viral_score": 10.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.9
+    },
+    {
+      "time": 83.0,
+      "viral_score": 7.7,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.0
+    },
+    {
+      "time": 83.5,
+      "viral_score": 6.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.2
+    },
+    {
+      "time": 84.0,
+      "viral_score": 6.2,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.4
+    },
+    {
+      "time": 84.5,
+      "viral_score": 6.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.5
+    },
+    {
+      "time": 85.0,
+      "viral_score": 7.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 9.7
+    },
+    {
+      "time": 85.5,
+      "viral_score": 8.9,
+      "audio": 0.1,
+      "replay": 10.4,
+      "chat": 14.2
+    },
+    {
+      "time": 86.0,
+      "viral_score": 11.7,
+      "audio": 0.0,
+      "replay": 12.5,
+      "chat": 18.7
+    },
+    {
+      "time": 86.5,
+      "viral_score": 16.4,
+      "audio": 0.0,
+      "replay": 14.7,
+      "chat": 23.2
+    },
+    {
+      "time": 87.0,
+      "viral_score": 24.0,
+      "audio": 0.0,
+      "replay": 16.9,
+      "chat": 27.7
+    },
+    {
+      "time": 87.5,
+      "viral_score": 34.3,
+      "audio": 0.0,
+      "replay": 21.3,
+      "chat": 32.3
+    },
+    {
+      "time": 88.0,
+      "viral_score": 45.9,
+      "audio": 75.8,
+      "replay": 25.7,
+      "chat": 36.8
+    },
+    {
+      "time": 88.5,
+      "viral_score": 57.1,
+      "audio": 87.6,
+      "replay": 30.1,
+      "chat": 41.3
+    },
+    {
+      "time": 89.0,
+      "viral_score": 66.4,
+      "audio": 72.7,
+      "replay": 34.5,
+      "chat": 45.8
+    },
+    {
+      "time": 89.5,
+      "viral_score": 73.7,
+      "audio": 76.8,
+      "replay": 40.5,
+      "chat": 50.3
+    },
+    {
+      "time": 90.0,
+      "viral_score": 79.4,
+      "audio": 94.2,
+      "replay": 46.6,
+      "chat": 54.8
+    },
+    {
+      "time": 90.5,
+      "viral_score": 83.5,
+      "audio": 97.3,
+      "replay": 52.6,
+      "chat": 59.4
+    },
+    {
+      "time": 91.0,
+      "viral_score": 86.0,
+      "audio": 91.8,
+      "replay": 58.7,
+      "chat": 63.9
+    },
+    {
+      "time": 91.5,
+      "viral_score": 87.6,
+      "audio": 78.0,
+      "replay": 65.0,
+      "chat": 68.4
+    },
+    {
+      "time": 92.0,
+      "viral_score": 88.8,
+      "audio": 58.2,
+      "replay": 71.2,
+      "chat": 72.9
+    },
+    {
+      "time": 92.5,
+      "viral_score": 90.2,
+      "audio": 69.2,
+      "replay": 77.5,
+      "chat": 77.4
+    },
+    {
+      "time": 93.0,
+      "viral_score": 91.7,
+      "audio": 83.3,
+      "replay": 83.7,
+      "chat": 81.9
+    },
+    {
+      "time": 93.5,
+      "viral_score": 93.1,
+      "audio": 72.6,
+      "replay": 87.8,
+      "chat": 86.5
+    },
+    {
+      "time": 94.0,
+      "viral_score": 94.8,
+      "audio": 8.0,
+      "replay": 91.9,
+      "chat": 91.0
+    },
+    {
+      "time": 94.5,
+      "viral_score": 95.9,
+      "audio": 80.7,
+      "replay": 95.9,
+      "chat": 95.5
+    },
+    {
+      "time": 95.0,
+      "viral_score": 94.7,
+      "audio": 92.1,
+      "replay": 100.0,
+      "chat": 100.0
+    },
+    {
+      "time": 95.5,
+      "viral_score": 89.9,
+      "audio": 74.9,
+      "replay": 100.0,
+      "chat": 95.5
+    },
+    {
+      "time": 96.0,
+      "viral_score": 82.2,
+      "audio": 6.4,
+      "replay": 100.0,
+      "chat": 91.0
+    },
+    {
+      "time": 96.5,
+      "viral_score": 74.0,
+      "audio": 0.0,
+      "replay": 100.0,
+      "chat": 86.5
+    },
+    {
+      "time": 97.0,
+      "viral_score": 67.2,
+      "audio": 0.0,
+      "replay": 100.0,
+      "chat": 81.9
+    },
+    {
+      "time": 97.5,
+      "viral_score": 62.2,
+      "audio": 0.0,
+      "replay": 95.9,
+      "chat": 77.4
+    },
+    {
+      "time": 98.0,
+      "viral_score": 58.5,
+      "audio": 0.7,
+      "replay": 91.9,
+      "chat": 72.9
+    },
+    {
+      "time": 98.5,
+      "viral_score": 55.2,
+      "audio": 0.3,
+      "replay": 87.8,
+      "chat": 68.4
+    },
+    {
+      "time": 99.0,
+      "viral_score": 51.9,
+      "audio": 0.0,
+      "replay": 83.7,
+      "chat": 63.9
+    },
+    {
+      "time": 99.5,
+      "viral_score": 48.4,
+      "audio": 0.0,
+      "replay": 77.5,
+      "chat": 59.4
+    },
+    {
+      "time": 100.0,
+      "viral_score": 44.7,
+      "audio": 0.0,
+      "replay": 71.2,
+      "chat": 54.8
+    },
+    {
+      "time": 100.5,
+      "viral_score": 41.0,
+      "audio": 0.0,
+      "replay": 65.0,
+      "chat": 50.3
+    },
+    {
+      "time": 101.0,
+      "viral_score": 37.2,
+      "audio": 0.0,
+      "replay": 58.7,
+      "chat": 45.8
+    },
+    {
+      "time": 101.5,
+      "viral_score": 33.4,
+      "audio": 0.0,
+      "replay": 52.6,
+      "chat": 41.3
+    },
+    {
+      "time": 102.0,
+      "viral_score": 29.7,
+      "audio": 0.4,
+      "replay": 46.6,
+      "chat": 36.8
+    },
+    {
+      "time": 102.5,
+      "viral_score": 26.1,
+      "audio": 0.0,
+      "replay": 40.5,
+      "chat": 32.3
+    },
+    {
+      "time": 103.0,
+      "viral_score": 22.6,
+      "audio": 0.0,
+      "replay": 34.5,
+      "chat": 27.7
+    },
+    {
+      "time": 103.5,
+      "viral_score": 19.4,
+      "audio": 0.0,
+      "replay": 30.1,
+      "chat": 23.2
+    },
+    {
+      "time": 104.0,
+      "viral_score": 16.4,
+      "audio": 0.1,
+      "replay": 25.7,
+      "chat": 18.7
+    },
+    {
+      "time": 104.5,
+      "viral_score": 13.8,
+      "audio": 0.0,
+      "replay": 21.3,
+      "chat": 14.2
+    },
+    {
+      "time": 105.0,
+      "viral_score": 11.6,
+      "audio": 0.0,
+      "replay": 16.9,
+      "chat": 9.7
+    },
+    {
+      "time": 105.5,
+      "viral_score": 9.8,
+      "audio": 0.3,
+      "replay": 14.7,
+      "chat": 9.4
+    },
+    {
+      "time": 106.0,
+      "viral_score": 8.3,
+      "audio": 0.6,
+      "replay": 12.5,
+      "chat": 9.0
+    },
+    {
+      "time": 106.5,
+      "viral_score": 7.3,
+      "audio": 0.0,
+      "replay": 10.4,
+      "chat": 8.7
+    },
+    {
+      "time": 107.0,
+      "viral_score": 6.5,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 8.4
+    },
+    {
+      "time": 107.5,
+      "viral_score": 6.0,
+      "audio": 0.2,
+      "replay": 8.2,
+      "chat": 8.1
+    },
+    {
+      "time": 108.0,
+      "viral_score": 5.6,
+      "audio": 0.2,
+      "replay": 8.2,
+      "chat": 7.7
+    },
+    {
+      "time": 108.5,
+      "viral_score": 5.5,
+      "audio": 0.1,
+      "replay": 8.2,
+      "chat": 7.4
+    },
+    {
+      "time": 109.0,
+      "viral_score": 5.4,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 7.1
+    },
+    {
+      "time": 109.5,
+      "viral_score": 5.3,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.8
+    },
+    {
+      "time": 110.0,
+      "viral_score": 5.2,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.5
+    },
+    {
+      "time": 110.5,
+      "viral_score": 5.1,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 6.1
+    },
+    {
+      "time": 111.0,
+      "viral_score": 5.1,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 5.8
+    },
+    {
+      "time": 111.5,
+      "viral_score": 5.0,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 5.5
+    },
+    {
+      "time": 112.0,
+      "viral_score": 5.0,
+      "audio": 0.0,
+      "replay": 8.2,
+      "chat": 5.2
+    },
+    {
+      "time": 112.5,
+      "viral_score": 5.0,
+      "audio": 0.1,
+      "replay": 8.2,
+      "chat": 4.8
+    },
+    {
+      "time": 113.0,
+      "viral_score": 5.0,
+      "audio": 0.3,
+      "replay": 8.2,
+      "chat": 4.5
+    },
+    {
+      "time": 113.5,
+      "viral_score": 5.0,
+      "audio": 0.2,
+      "replay": 8.2,
+      "chat": 4.2
+    },
+    {
+      "time": 114.0,
+      "viral_score": 5.0,
+      "audio": 0.9,
+      "replay": 8.2,
+      "chat": 3.9
+    }
+  ],
+  "processing_time_sec": 138.11
+}
