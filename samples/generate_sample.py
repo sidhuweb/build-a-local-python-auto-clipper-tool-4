@@ -129,13 +129,15 @@ def generate_sample_stream(output_mp4_path: str = "samples/sample_stream.mp4") -
 
     # Render video: animated test gaming background + webcam overlay in top-right (x=1400, y=40)
     # Main gameplay has dynamic moving elements
-    font_path = "/home/agent/workspace/assets/fonts/Montserrat-ExtraBold.ttf"
+    # Main gameplay has dynamic moving elements & HUD bars (health, ammo, crosshair)
     gameplay_filter = (
         f"[0:v]drawbox=x=860:y=440:w=200:h=200:color=red@0.5:t=4,"
         f"drawbox=x=958:y=530:w=4:h=20:color=green:t=fill,"
         f"drawbox=x=950:y=538:w=20:h=4:color=green:t=fill,"
-        f"drawtext=fontfile='{font_path}':text='LIVE MATCH | SCORE 14-12':x=60:y=60:fontsize=36:fontcolor=white:box=1:boxcolor=black@0.6,"
-        f"drawtext=fontfile='{font_path}':text='HEALTH: 100  |  AMMO: 30/90':x=60:y=1000:fontsize=32:fontcolor=yellow:box=1:boxcolor=black@0.6[game];"
+        f"drawbox=x=60:y=60:w=320:h=45:color=black@0.7:t=fill,"
+        f"drawbox=x=65:y=65:w=180:h=35:color=blue@0.8:t=fill,"
+        f"drawbox=x=60:y=1000:w=350:h=45:color=black@0.7:t=fill,"
+        f"drawbox=x=65:y=1005:w=280:h=35:color=green@0.8:t=fill[game];"
         f"[game][1:v]overlay=x=1400:y=40[outv]"
     )
 
