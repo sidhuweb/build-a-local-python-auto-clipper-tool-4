@@ -80,21 +80,23 @@ class ViralMomentAnalyzer:
 
         # 5. Peak picking with non-maximum suppression / distance enforcement
         step_sec = time_grid[1] - time_grid[0] if len(time_grid) > 1 else 1.0
-        min_distance_steps = max(1, int(self.min_clip_distance / step_sec))
+        # Dynamically adapt distance to video duration so top_k distinct peaks are always available
+        adapted_min_dist = min(self.min_clip_distance, max(12.0, video_duration / float(top_k + 1.2)))
+        min_distance_steps = max(1, int(adapted_min_dist / step_sec))
 
         peak_indices, properties = find_peaks(
             viral_curve,
             distance=min_distance_steps,
-            prominence=5.0,
-            height=15.0,
+            prominence=4.0,
+            height=12.0,
         )
 
         # If not enough peaks found with high prominence, relax prominence
         if len(peak_indices) < top_k:
             peak_indices, _ = find_peaks(
                 viral_curve,
-                distance=min_distance_steps,
-                height=10.0,
+                distance=max(1, min_distance_steps // 2),
+                height=8.0,
             )
 
         # If still not enough, pick top N highest points with distance separation
@@ -102,7 +104,7 @@ class ViralMomentAnalyzer:
             sorted_indices = np.argsort(viral_curve)[::-1]
             chosen = []
             for idx in sorted_indices:
-                if all(abs(idx - c) >= min_distance_steps for c in chosen):
+                if all(abs(idx - c) >= max(1, min_distance_steps // 2) for c in chosen):
                     chosen.append(idx)
                     if len(chosen) >= top_k:
                         break
