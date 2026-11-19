@@ -141,7 +141,7 @@ def generate_sample_stream(output_mp4_path: str = "samples/sample_stream.mp4") -
 
     cmd_video = [
         "ffmpeg", "-y",
-        "-f", "lavfi", "-i", f"mptestsrc=size=1920x1080:rate=30:duration={total_duration}",
+        "-f", "lavfi", "-i", f"testsrc=size=1920x1080:rate=30:duration={total_duration}",
         "-loop", "1", "-i", str(webcam_png),
         "-i", str(full_audio),
         "-filter_complex", gameplay_filter,
