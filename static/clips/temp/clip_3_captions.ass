@@ -1,0 +1,29 @@
+[Script Info]
+Title: AutoClipper Bold Viral Captions
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ViralCaption,Montserrat ExtraBold,70,&H00FFFFFF,&H000000FF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,7,4,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.33,0:00:09.97,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H0000FFFF\fscx112\fscy112}WAIT{\r} {\c&H00FFFFFF}WHAT{\r} {\c&H00FFFFFF}JUST{\r}
+Dialogue: 0,0:00:09.97,0:00:10.21,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}WAIT{\r} {\c&H0000FFFF\fscx112\fscy112}WHAT{\r} {\c&H00FFFFFF}JUST{\r}
+Dialogue: 0,0:00:10.21,0:00:10.39,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}WAIT{\r} {\c&H00FFFFFF}WHAT{\r} {\c&H0000FFFF\fscx112\fscy112}JUST{\r}
+Dialogue: 0,0:00:10.39,0:00:11.77,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H0000FFFF\fscx112\fscy112}HAPPENED?{\r} {\c&H00FFFFFF}DID{\r} {\c&H00FFFFFF}HE{\r}
+Dialogue: 0,0:00:11.77,0:00:11.92,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}HAPPENED?{\r} {\c&H0000FFFF\fscx112\fscy112}DID{\r} {\c&H00FFFFFF}HE{\r}
+Dialogue: 0,0:00:11.89,0:00:12.21,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}HAPPENED?{\r} {\c&H00FFFFFF}DID{\r} {\c&H0000FFFF\fscx112\fscy112}HE{\r}
+Dialogue: 0,0:00:12.21,0:00:12.47,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H0000FFFF\fscx112\fscy112}ACTUALLY{\r} {\c&H00FFFFFF}JUMP{\r} {\c&H00FFFFFF}OFF{\r}
+Dialogue: 0,0:00:12.47,0:00:12.75,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}ACTUALLY{\r} {\c&H0000FFFF\fscx112\fscy112}JUMP{\r} {\c&H00FFFFFF}OFF{\r}
+Dialogue: 0,0:00:12.75,0:00:12.99,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}ACTUALLY{\r} {\c&H00FFFFFF}JUMP{\r} {\c&H0000FFFF\fscx112\fscy112}OFF{\r}
+Dialogue: 0,0:00:12.99,0:00:13.14,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H0000FFFF\fscx112\fscy112}THE{\r} {\c&H00FFFFFF}ROOF?{\r} {\c&H00FFFFFF}ARE{\r}
+Dialogue: 0,0:00:13.13,0:00:14.43,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}THE{\r} {\c&H0000FFFF\fscx112\fscy112}ROOF?{\r} {\c&H00FFFFFF}ARE{\r}
+Dialogue: 0,0:00:14.43,0:00:14.57,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}THE{\r} {\c&H00FFFFFF}ROOF?{\r} {\c&H0000FFFF\fscx112\fscy112}ARE{\r}
+Dialogue: 0,0:00:14.57,0:00:14.75,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H0000FFFF\fscx112\fscy112}YOU{\r} {\c&H00FFFFFF}SERIOUS{\r} {\c&H00FFFFFF}RIGHT{\r}
+Dialogue: 0,0:00:14.75,0:00:15.07,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}YOU{\r} {\c&H0000FFFF\fscx112\fscy112}SERIOUS{\r} {\c&H00FFFFFF}RIGHT{\r}
+Dialogue: 0,0:00:15.07,0:00:15.41,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H00FFFFFF}YOU{\r} {\c&H00FFFFFF}SERIOUS{\r} {\c&H0000FFFF\fscx112\fscy112}RIGHT{\r}
+Dialogue: 0,0:00:15.41,0:00:15.75,ViralCaption,,0,0,0,,{\pos(540,960)}{\c&H0000FFFF\fscx112\fscy112}NOW?{\r}
